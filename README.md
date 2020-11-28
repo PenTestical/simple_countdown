@@ -5,6 +5,7 @@
 To limit your time on specific tasks, it can be useful to have a countdown timer. Add the function under your bash profile with:
 
 ```sudo nano ~/.bash_profile```
+
 ```sudo source ~/.bash_profile```
 
 To use it, simply type (in seconds):
