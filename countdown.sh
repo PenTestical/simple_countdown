@@ -1,5 +1,5 @@
 #Simple countdown for your own bash profile to set yourself time limits
-#pentestical
+#Pentestical
 
 #add this line to your bash profile under ~/.bash_profile
 #Don't forget to source it: source ~/.bash_profile
