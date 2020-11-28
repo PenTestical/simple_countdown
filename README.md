@@ -1,6 +1,6 @@
 # Simple timer written in Bash
 
-# Usage for the time countdown
+# Usage for the countdown timer
 
 To limit your time on specific tasks, it can be useful to have a countdown timer. Add the function under your bash profile with:
 
