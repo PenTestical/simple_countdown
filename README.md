@@ -1,4 +1,4 @@
-# Simple countdown written in Bash
+# Simple timer written in Bash
 
 # Usage for the time countdown
 
