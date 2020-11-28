@@ -13,4 +13,5 @@ countdown(){
      echo -ne "$(date -u --date @$(($date_one - `date +%s`)) +%H:%M:%S)\r";
      sleep 0.1
    done
+   echo -en "\a" > /dev/tty
 }
